@@ -1,0 +1,19 @@
+{
+  "name": "open-to-intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtifPervez/Open-to-intern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtifPervez/Open-to-intern/issues"
+  },
+  "homepage": "https://github.com/AtifPervez/Open-to-intern#readme"
+}

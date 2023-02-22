@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AtifPervez/Open-to-intern/issues"
   },
-  "homepage": "https://github.com/AtifPervez/Open-to-intern#readme"
+  "homepage": "https://github.com/AtifPervez/Open-to-intern#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
 }
